@@ -1,4 +1,5 @@
 # SearchInsideTXT
+Run in debian and derivate
 
 1. execute in terminal: locate > search.txt
 
@@ -8,4 +9,4 @@
 
 4. Compile
 
-5. RUn
+5. Run
