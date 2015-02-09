@@ -8,4 +8,4 @@
 
 4. Compile
 
-5. RUn
+5. Run
